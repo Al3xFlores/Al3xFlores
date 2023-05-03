@@ -6,11 +6,11 @@
 
 
 ## Olá Pessoas 👋, Sejam Bem-Vindas!
-### Meu nome é Alex Flores e sou apaixonado pelo desenvolvimento web!
+### Meu nome é Alex Flores e sou apaixonado por tecnologias e games!
 
 
 - 🎓 Cursando graduação em analise e desenvolvimento de sistemas.
-- 🚀 Tecnologias: ReactJS, NodeJS, MongoDB,   
-- :books: Melhorando as skills em, CSS grid layout, ReactJS, Redux.
+- 🚀 Tecnologias: SQL, Python, Javascript.
+
 
 > "Saber não é o bastante; precisamos aplicar. Querer não é o bastante, precisamos fazer."
