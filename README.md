@@ -6,10 +6,10 @@
 
 
 ## Olá Pessoas 👋, Sejam Bem-Vindas!
-### Meu nome é Alex Flores e sou apaixonado por tecnologias e games!
+### Meu nome é Aléxis Flores e sou apaixonado por tecnologias e games!
 
 
-- 🎓 Cursando graduação em analise e desenvolvimento de sistemas.
+- 🎓 Formado na graduação em analise e desenvolvimento de sistemas.
 - 🚀 Tecnologias: SQL, Python, Javascript.
 
 
